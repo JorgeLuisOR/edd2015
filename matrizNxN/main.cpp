@@ -1,13 +1,15 @@
+#include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
 
+using namespace std;
 
 int main ()
 {		
 		int i,j, col, fil;
 		
-		printf("¿De que tamaño seran tus matrices? (Ingresa 1 valor)\n");
-		scanf("%d %d", &col);
+		cout<<"¿De que tamaño seran tus matrices? (Ingresa 1 valor)\n";
+		cin>> col;
 		fil=col;
 		if(fil > col){
 				printf("Las filas superan las columnas, no se realiza la matriz\n");
