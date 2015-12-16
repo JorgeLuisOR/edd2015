@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1450247348 source:c:\users\jorge\desktop\pilas\funciones.cpp
+	<iostream>
+	<cstdio>
+	"funciones.h"
+
+1450247332 c:\users\jorge\desktop\pilas\funciones.h
+
+1450247332 source:c:\users\jorge\desktop\pilas\main.cpp
+	<iostream>
+	<cstdio>
+	"funciones.h"
+
